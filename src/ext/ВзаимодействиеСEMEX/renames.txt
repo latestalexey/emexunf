@@ -1,0 +1,15 @@
+﻿115910bd-44a0-4116-b951-d6facc61cef9-->und\115910bd-44a0-4116-b951-d6facc61cef9
+1ff5cef9-ca63-41b9-b614-f09c924f34a7.0\info-->und\1ff5cef9-ca63-41b9-b614-f09c924f34a7.0\info
+1ff5cef9-ca63-41b9-b614-f09c924f34a7.0\text-->ObjectModule.bsl
+56dc69e4-95cb-4055-ae5d-54a7751d2057-->und\56dc69e4-95cb-4055-ae5d-54a7751d2057
+56dc69e4-95cb-4055-ae5d-54a7751d2057.0-->und\56dc69e4-95cb-4055-ae5d-54a7751d2057.0
+7d548b1e-f2f3-466e-bd6c-7dbc3aaef1db-->und\7d548b1e-f2f3-466e-bd6c-7dbc3aaef1db
+7d548b1e-f2f3-466e-bd6c-7dbc3aaef1db.0-->und\7d548b1e-f2f3-466e-bd6c-7dbc3aaef1db.0
+86b94c64-ecc8-4908-b074-cac98a1ba69d-->und\86b94c64-ecc8-4908-b074-cac98a1ba69d
+86b94c64-ecc8-4908-b074-cac98a1ba69d.0-->und\86b94c64-ecc8-4908-b074-cac98a1ba69d.0
+8af80914-5af3-49d9-a5e5-b7bd5b08d365-->und\8af80914-5af3-49d9-a5e5-b7bd5b08d365
+8af80914-5af3-49d9-a5e5-b7bd5b08d365.0-->Form\ФормаТестированияWebСервисов
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions

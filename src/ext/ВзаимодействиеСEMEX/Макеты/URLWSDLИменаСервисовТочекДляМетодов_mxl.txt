@@ -1,0 +1,40 @@
+﻿Все поля являются обязательными для заполнения !!!			
+			
+Номер URL	Значение URL	Представление	
+0	http://ws.emex.ru/EmExService.asmx?WSDL	Сервис поиска детали	
+1	http://ws.emex.ru/EmEx_Basket.asmx?WSDL	Сервис Корзины	
+2	http://ws.emex.ru/EmExInmotion.asmx?WSDL	Сервис Движения	
+3	http://ws.emex.ru/EmExDictionaries.asmx?WSDL	Сервис Словарей	
+4	http://ws.emex.ru/EmExBalance.asmx?WSDL	Сервис Баланса	
+5	http://ws.emex.ru/EmExMargin.asmx?WSDL	Сервис Наценки	
+6	 http://img.emex.ru:8000/getImagesIds?detailnum=	Сервис изображений	
+7		Сервис валют	
+			
+Имя метода	Имя сервиса	Имя точки подключения	Номер URL_WSDL
+TestConnect	EmExService	EmExServiceSoap	0
+FindDetailAdv3	EmExService	EmExServiceSoap	0
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

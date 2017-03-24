@@ -1,0 +1,27 @@
+﻿ТипXDTO	Значение	Описание
+boolean	Булево	
+int	Число	
+float	Число	
+long	Число	
+double	Число	
+decimal	Число	
+date	Дата	
+datetime	Дата	
+time	Дата	
+notation	Строка	
+string	Строка	
+gyearmonth	Строка	
+gyear	Строка	
+gmonthday	Строка	
+gmonth	Строка	
+gday	Строка	
+duration	Строка	
+anyuri	Строка	
+anysimpletype	Строка	
+SearchSubstLevel	OriginalOnly	без замен и аналогов
+	All	с заменами и аналогами
+SearchSubstFilter	None	не фильтровать
+	FilterOriginalAndReplacements	только искомый номер, новый номер и замены искомого номера
+	FilterOriginalAndAnalogs	только искомый номер и аналоги
+FindDeliveryRegionType	PRI	тип доставки (по умолчанию надо указывать PRI)
+	ALT	тип доставки (по умолчанию надо указывать PRI)
